@@ -1,24 +1,18 @@
 # CS408 - Lab9.2
 
+Author: Tyler Fernandez
+Date: March 12, 2025
+
 ## Overview
 
-TODO: Write a project description
+The program creates 25 bouncing RGB balls with a user-controlled evil circle that catches them. The ball counter decrements with every captured ball.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+I used the following to complete this project:
 
-A simple bulleted list below is sufficient. For example:
+- JS Objects: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics
+- JS Classes: https://www.w3schools.com/js/js_classes.asp
+- JS Object Cosntructors: https://www.w3schools.com/js/js_object_constructors.asp
+- JS Shapes: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
